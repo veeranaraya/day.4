@@ -1,0 +1,57 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    margin: 0;
+    background-color: #3bbff7;
+}
+.chessboard{
+    margin-top: 1%;
+    height: 500px;
+    height: 500px;
+   
+}
+h1::first-letter{
+    color: blue;
+    font-size: larger; 
+}
+
+.v4{
+    border: 1px solid black;
+      height: 50px;
+     text-align: center;
+}
+.vee{
+    font-size: xx-large;
+}
+#chessboard{
+    border: 1px solid black;
+    width: 400px;
+    height: 75px;
+    
+    
+}
+#v1{
+    background: antiquewhite;
+    text-align: center;
+    width: 300px;
+    height: 0px;
+}
+#veera{
+    width:100px;
+    height: 50px;
+}
+#v2{
+    background-color: rgb(229, 106, 35);
+    text-align: center;
+}
+.v1 .v2 {
+    height:20px;
+}
+#v4{
+    width: 300px;
+    height: 0;
+    padding: 250%;
+}
+
